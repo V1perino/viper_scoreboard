@@ -1,1 +1,3 @@
 # viper_scoreboard
+
+PROSIM DONEJT ZA TENTO SCOREBOARD KRASNY :(
